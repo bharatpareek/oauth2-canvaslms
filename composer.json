@@ -1,8 +1,12 @@
 {
-    "name": "jmu-cs/oauth2-canvaslms",
+    "name": "bharatpareek/oauth2-canvaslms",
     "description": "Canvas LMS OAuth 2.0 support for the PHP League's OAuth 2.0 Client",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Bharat Pareek",
+            "email": "bharat.pareek1991@gmail.com"
+        },
         {
             "name": "Seth Battis",
             "email": "sethbattis@stmarksschool.org"
